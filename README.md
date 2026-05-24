@@ -2,6 +2,10 @@
 
 So what are we "forging"? We are forging understanding of Kubernetes concepts and how the components of its architecture independently react to bring the cluster to a desired state.
 
+## Why does this repo exist ? 
+
+I want to deepen my understanding of Kubernetes and the underlying architecture, the interactions between components triggered by incomming / outgoing traffic as well as `kubectl` commands. And this gave me the idea to try to gain this understanding through a more visual and engaging manner.
+
 ## Status
 
 Experimenting | Ongoing development
